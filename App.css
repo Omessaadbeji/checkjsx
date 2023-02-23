@@ -1,0 +1,17 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+.First {
+  padding: 20%;
+  margin: 10%;
+  background-color: aquamarine;
+  color: blue;
+  border-radius: 10%;
+  
+}
+
+
